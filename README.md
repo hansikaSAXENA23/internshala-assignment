@@ -1,4 +1,4 @@
-# internshala-assignment
+# internshala-Assignment
 Internships for Students
 Tasks: 
 Design and develop a web application (in PHP), which will be an internship portal similar to that of Internshala, but on a much smaller scale. 
